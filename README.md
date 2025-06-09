@@ -1,4 +1,3 @@
-# GOL-app
-game-of-life
+# GAME OF LIFE
 
-This is for the web version 
+## IDEA
